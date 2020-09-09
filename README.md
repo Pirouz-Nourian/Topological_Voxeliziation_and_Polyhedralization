@@ -1,5 +1,5 @@
 # Topological_Voxelizer_CSharp
-Voxelizes 3D surfaces (triangular meshes) to voxels based on the method described by Samuli Laine 
+Voxelizes or Polyhedralizes 3D surfaces (triangular meshes) to voxels based on the method described by Samuli Laine 
 the Voxelizer algorithm is written by Pirouz Nourian, PhD reserahcer and instructor at TU Delft, Faculty of Architecture and the Built Environment, Department of Urbansim, Chair of 3D Geo Info in 2014. 
 The algorithm is based on the method described by Samuli Laine, NVIDIA reseach 2013. 
 
