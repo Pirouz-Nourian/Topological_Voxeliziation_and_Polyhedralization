@@ -1,4 +1,4 @@
-# Topological_Voxelizer_CSharp
+# Topological_Voxelizer_Polyhedralizer
 [![DOI](https://zenodo.org/badge/33179881.svg)](https://zenodo.org/badge/latestdoi/33179881)
 
 Voxelizes or Polyhedralizes 3D surfaces (triangular meshes) to voxels based on the method described by Samuli Laine 
